@@ -24,7 +24,7 @@ Users are welcomed with an engaging home interface:
 - Personalized "Popular Foods" carousel with heart-favorite options like Breakfast Meal and Hearty Pasta  
 - Eye-catching "Best Foods" hero section featuring premium dishes (e.g., rich seafood curry with rice and fresh herbs)
 
-<img src="screenshots/home-screen.png" width="360" alt="Food discovery home screen">
+<img src="images/7.jpg" width="360" alt="Food discovery home screen">
 
 **Cart & Order Summary**  
 Seamless shopping cart experience:  
@@ -34,5 +34,5 @@ Seamless shopping cart experience:
 - Multiple payment methods (Credit/Debit Card highlighted)  
 - Prominent red "Order Now" CTA for quick checkout
 
-<img src="screenshots/cart-screen.png" width="360" alt="Food cart and checkout view">
+<img src="images/8.jpg" width="360" alt="Food cart and checkout view">
 >>>>>>> 588e4ef543a5187fa14a6ffdc232dc86e1aa0697
